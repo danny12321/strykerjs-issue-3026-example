@@ -1,0 +1,5 @@
+.stryker-tmp
+dist
+node_modules
+reports
+packages-lock.json
